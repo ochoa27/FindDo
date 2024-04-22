@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T04:58:36.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mUGUcdDZOZ1DgmBC_Qms" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T04:59:03.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iHeNEJBu92kvw4OdoOrC" version="24.2.2" type="github">
   <diagram name="Página-1" id="I6RCl1Hfmlv7WQNAjJQK">
     <mxGraphModel dx="1290" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HPC2uOC-RO67EFArFsDC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0B0B0;dashed=1;dashPattern=12 12;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="151.7" y="224.7" width="150" height="277.3" as="geometry" />
+          <mxGeometry x="155.26" y="225.54999999999998" width="150" height="277.3" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HPC2uOC-RO67EFArFsDC-6" target="HPC2uOC-RO67EFArFsDC-1">
           <mxGeometry relative="1" as="geometry" />
@@ -96,16 +96,16 @@
           <mxGeometry x="200.26" y="153" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-39" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="203.89999999999998" y="218.2" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="203.89999999999998" y="229.39999999999998" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-40" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
-          <mxGeometry x="200.26" y="289.4" width="45.94" height="46.6" as="geometry" />
+          <mxGeometry x="200.26" y="300" width="45.94" height="46.6" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="207.2" y="346" width="32.8" height="54" as="geometry" />
+          <mxGeometry x="206.82999999999998" y="360" width="32.8" height="54" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-42" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tablet_ipad;" vertex="1" parent="1">
-          <mxGeometry x="204.1" y="422" width="39" height="52" as="geometry" />
+          <mxGeometry x="207.2" y="434" width="39" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HPC2uOC-RO67EFArFsDC-43" value="Dueño app&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="229.4" width="30" height="60" as="geometry" />
